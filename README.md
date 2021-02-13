@@ -1,2 +1,1 @@
-# sikhangezile.github.io
-Website
+Sikhangezile & Craftsmen Ltd. working website.
